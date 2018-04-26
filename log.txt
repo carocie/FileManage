@@ -1,0 +1,52 @@
+
+Array
+(
+    [upfile] => Array
+        (
+            [name] => DC32-MS-0016_ARGW_改造仕様書.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => C:\Windows\Temp\php595.tmp
+            [error] => 0
+            [size] => 463183
+        )
+
+)
+
+Array
+(
+    [upfile] => Array
+        (
+            [name] => DC32-MS-0016_ARGW_改造仕様書.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => C:\Windows\Temp\php2E6A.tmp
+            [error] => 0
+            [size] => 463183
+        )
+
+)
+
+Array
+(
+    [upfile] => Array
+        (
+            [name] => DC32-MS-0016_ARGW_改造仕様書.docx
+            [type] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+            [tmp_name] => C:\Windows\Temp\phpE70F.tmp
+            [error] => 0
+            [size] => 463183
+        )
+
+)
+
+Array
+(
+    [upfile] => Array
+        (
+            [name] => 一覧.txt
+            [type] => text/plain
+            [tmp_name] => C:\Windows\Temp\php8774.tmp
+            [error] => 0
+            [size] => 286
+        )
+
+)
